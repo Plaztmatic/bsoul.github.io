@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+
+h1 {
+    text-align: left;
+    font-size: 35px;
+}
+
+li {
+    color:blueviolet;
+}
